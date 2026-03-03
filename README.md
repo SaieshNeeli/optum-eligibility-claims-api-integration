@@ -86,3 +86,20 @@ Optum developer site links:
 - Check Eligibility (JSON) → https://developer.optum.com/eligibilityandclaims/reference/medicaleligibility  
 - Check Eligibility (raw X12) → https://developer.optum.com/eligibilityandclaims/reference/rawx12  
 - API Request/Response → https://developer.optum.com/eligibilityandclaims/docs/eligibility-api-request-response
+
+
+---
+
+## 🔭 Platform Scope
+
+Optum provides a broad suite of APIs including:
+
+- Professional Claims
+- Institutional Claims
+- Claim Status
+- Prior Authorization
+- Attachments
+- Payer List
+- Coverage Discovery
+
+This project focuses specifically on Eligibility (270/271) workflows in the sandbox environment.
