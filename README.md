@@ -64,3 +64,25 @@ Provider → 837i Submission → Validation Endpoint → Processing
 ## 🏗 Architecture
 
 Client → Backend Service → Optum API Gateway → Payer
+
+---
+
+## 📚 Documentation
+
+Below are detailed technical references used in this project:
+
+🔹 [Eligibility Response Fields](docs/eligibility_response_fields.md)  
+🔹 [Codes Reference](docs/codes_reference.md)  
+🔹 [Sandbox Testing Values](docs/sandbox_values.md)  
+🔹 [Raw X12 Examples](docs/raw_x12_examples.md)
+
+---
+
+## 🔗 Official API Docs
+
+Optum developer site links:
+
+- Get Access Token → https://developer.optum.com/eligibilityandclaims/reference/post_apip-auth-v2-token-5  
+- Check Eligibility (JSON) → https://developer.optum.com/eligibilityandclaims/reference/medicaleligibility  
+- Check Eligibility (raw X12) → https://developer.optum.com/eligibilityandclaims/reference/rawx12  
+- API Request/Response → https://developer.optum.com/eligibilityandclaims/docs/eligibility-api-request-response
